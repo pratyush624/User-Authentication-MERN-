@@ -50,7 +50,7 @@ const Password = () => {
 
             <div className="text-center py-4">
               <span className="text-gray-500">
-                NForgot password?{" "}
+                Forgot password?{" "}
                 <Link className="text-red-500" to="/recovery">
                   Recover Now
                 </Link>
